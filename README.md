@@ -3,7 +3,7 @@
 
 ![Shell](https://img.shields.io/badge/shell-zsh-green?logo=gnu-bash&logoColor=white)
 ![License](https://img.shields.io/badge/license-Proprietary-red)
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Version](https://img.shields.io/badge/version-0.0.1-blue)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-orange)
 
 ---
